@@ -32,7 +32,7 @@ img {
 
 /* Centraliza o bloco inteiro da figura (imagem + legenda) na tela. */
 figure {
-    max-width: 30%;
+    max-width: fit-content(50%);
     display: block; 
     margin-left: auto;
     margin-right: auto;
