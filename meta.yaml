@@ -11,6 +11,4 @@ publisher: Editora Kelps
 date: 2023
 toc-title: Sumário
 cover-image: img/cover.png
-include-before:
-- '`\newpage{}`{=latex}'
 ...

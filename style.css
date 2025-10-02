@@ -1,0 +1,14 @@
+.frase-efeito {
+    font-size: 2em; /* 2 vezes o tamanho normal da fonte */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 2em; /* Adiciona espaço acima */
+    margin-bottom: 2em; /* Adiciona espaço abaixo */
+    font-weight: bold; /* Deixa a fonte em negrito (opcional) */
+	page-break-before: always;
+	page-break-after: always;
+}
+
+.page-break
+{
+	page-break-after: always;
+}
