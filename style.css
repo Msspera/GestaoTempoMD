@@ -21,8 +21,18 @@
     margin-right: auto;
 }
 
+img {
+    height: auto;
+    /* CHAVE: display: block permite margin: auto funcionar. */
+    display: block; 
+    /* CHAVE: Centraliza a imagem DENTRO de seu container. */
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Centraliza o bloco inteiro da figura (imagem + legenda) na tela. */
 figure {
+    max-width: 30%;
     display: block; 
     margin-left: auto;
     margin-right: auto;
