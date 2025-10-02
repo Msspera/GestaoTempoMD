@@ -12,3 +12,24 @@
 {
 	page-break-after: always;
 }
+
+.img-fill {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Centraliza o bloco inteiro da figura (imagem + legenda) na tela. */
+figure {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Centraliza o texto da legenda da figura */
+figcaption {
+    text-align: center; 
+    margin-top: 0.5em; /* Espaço entre a imagem e a legenda */
+}
