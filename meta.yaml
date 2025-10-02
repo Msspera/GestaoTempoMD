@@ -1,0 +1,16 @@
+---
+title:
+- type: main
+  text: Gestão do Tempo para Homens Ocupados
+- type: subtitle
+  text: Como Homens Produtivos Lidam com Seu Tempo
+author: José Rafael Medeiros Filho
+rights: 'Copyright © 2023 by José Rafael Medeiros Filho'
+language: pt-BR
+publisher: Editora Kelps
+date: 2023
+toc-title: Sumário
+cover-image: img/cover.png
+include-before:
+- '`\newpage{}`{=latex}'
+...
